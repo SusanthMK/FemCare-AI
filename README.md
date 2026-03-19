@@ -15,13 +15,15 @@
   <img src="https://img.shields.io/badge/Status-Prototype-yellow">
 </p>
 
----
+
+
 
 # FemCare AI
 
 AI-powered digital health platform designed to provide **proactive and personalized care** for women managing PCOS and menopause.
 
----
+
+
 
 ## Overview
 
@@ -29,7 +31,8 @@ FemCare AI is a modern digital health platform focused on improving hormonal hea
 
 It goes beyond traditional tracking by delivering **meaningful insights and proactive healthcare guidance**.
 
----
+
+
 
 ## Why It Matters
 
@@ -37,7 +40,8 @@ Hormonal health conditions are often underdiagnosed and poorly managed due to la
 
 FemCare AI aims to bridge this gap by providing accessible, intelligent, and proactive healthcare support.
 
----
+
+
 
 ## Health Context
 
@@ -61,7 +65,8 @@ A natural biological transition that may cause:
 
 These conditions require **continuous monitoring and personalized care**, which is often missing in existing digital solutions.
 
----
+
+
 
 ## Problem
 
@@ -74,7 +79,8 @@ Current digital health solutions:
 
 This leads to reactive healthcare instead of proactive management.
 
----
+
+
 
 ## Solution
 
@@ -85,7 +91,8 @@ FemCare AI introduces a data-driven system that:
 * Generates insights
 * Provides personalized recommendations
 
----
+
+
 
 ## Features
 
@@ -103,7 +110,8 @@ FemCare AI introduces a data-driven system that:
 * Wearable integration
 * Consultation support
 
----
+
+
 
 ## System Design
 
@@ -117,7 +125,8 @@ The system follows a modular architecture:
 📁 Detailed design:
 `architecture/system-design.md`
 
----
+
+
 
 ## Workflow
 
@@ -126,7 +135,8 @@ User Input
 → AI Analysis
 → Insights & Recommendations
 
----
+
+
 
 ## Project Structure
 
@@ -140,13 +150,15 @@ FemCare-AI/
 └── future-scope/
 ```
 
----
+
+
 
 ## Live Demo
 
 https://femcare-ai-01.lovable.app
 
----
+
+
 
 ## Interface Preview
 
@@ -158,7 +170,8 @@ https://femcare-ai-01.lovable.app
 
 ![Dashboard](UserInterface/LoginPage_Dashboard.png)
 
----
+
+
 
 ## Technology
 
@@ -172,7 +185,8 @@ https://femcare-ai-01.lovable.app
 * Backend: Node.js / Firebase
 * AI: Python (Machine Learning models)
 
----
+
+
 
 ## Future Scope
 
@@ -184,13 +198,13 @@ https://femcare-ai-01.lovable.app
 📁 Roadmap:
 `future-scope/roadmap.md`
 
----
+
 
 ## Author
 
 Susanth Mohan Kamala
 
----
+
 
 ## Summary
 
