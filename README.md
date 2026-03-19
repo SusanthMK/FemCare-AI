@@ -14,7 +14,6 @@
   <a href="#-roadmap"><b>Roadmap</b></a>
 </p>
 
----
 
 ## 📌 Product Vision
 
