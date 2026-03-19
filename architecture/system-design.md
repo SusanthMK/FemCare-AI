@@ -1,12 +1,12 @@
-# 🧩 FemCare AI System Architecture
+# FemCare AI System Architecture
 
-## 📌 Overview
+## Overview
 
 FemCare AI follows a modular architecture combining frontend, backend, and AI components to deliver predictive healthcare insights.
 
 
 
-## 🏗️ Architecture Components
+## Architecture Components
 
 ### 1. Frontend (User Interface)
 
@@ -57,7 +57,7 @@ FemCare AI follows a modular architecture combining frontend, backend, and AI co
 
 
 
-## 🔄 Data Flow
+## Data Flow
 
 User Input
 → Backend API
@@ -68,7 +68,7 @@ User Input
 
 
 
-## 🔐 Security Considerations
+## Security Considerations
 
 * Data encryption
 * Secure authentication
@@ -76,7 +76,7 @@ User Input
 
 
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 * Wearable integration
 * Real-time data processing
