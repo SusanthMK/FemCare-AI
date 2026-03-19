@@ -4,7 +4,7 @@
 
 FemCare AI follows a modular architecture combining frontend, backend, and AI components to deliver predictive healthcare insights.
 
----
+
 
 ## 🏗️ Architecture Components
 
@@ -14,7 +14,7 @@ FemCare AI follows a modular architecture combining frontend, backend, and AI co
 * User inputs: symptoms, cycle data, lifestyle data
 * Dashboard for insights and predictions
 
----
+
 
 ### 2. Backend (API Layer)
 
@@ -22,7 +22,7 @@ FemCare AI follows a modular architecture combining frontend, backend, and AI co
 * Stores user data securely
 * Connects frontend with AI models
 
----
+
 
 ### 3. Database
 
@@ -33,7 +33,7 @@ FemCare AI follows a modular architecture combining frontend, backend, and AI co
   * Symptom logs
 * Suggested: Firebase / MongoDB
 
----
+
 
 ### 4. AI Engine
 
@@ -45,7 +45,7 @@ FemCare AI follows a modular architecture combining frontend, backend, and AI co
 * Random Forest → Risk classification
 * NLP → Chatbot assistant
 
----
+
 
 ### 5. Recommendation Engine
 
@@ -55,7 +55,7 @@ FemCare AI follows a modular architecture combining frontend, backend, and AI co
   * Exercise suggestions
   * Lifestyle improvements
 
----
+
 
 ## 🔄 Data Flow
 
@@ -66,7 +66,7 @@ User Input
 → Prediction Engine
 → Dashboard Output
 
----
+
 
 ## 🔐 Security Considerations
 
@@ -74,7 +74,7 @@ User Input
 * Secure authentication
 * Privacy compliance (HIPAA/GDPR in future)
 
----
+
 
 ## 🚀 Future Enhancements
 
