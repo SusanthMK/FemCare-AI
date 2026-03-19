@@ -3,49 +3,59 @@
   Intelligent Digital Health for PCOS & Menopause
 </p>
 
+<p align="center">
+  <a href="https://femcare-ai-01.lovable.app"><b>🌐 Live Demo</b></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue">
+  <img src="https://img.shields.io/badge/AI-Healthcare-red">
+  <img src="https://img.shields.io/badge/Type-Digital%20Health-orange">
+  <img src="https://img.shields.io/badge/Domain-Women%20Health-green">
+  <img src="https://img.shields.io/badge/Status-Prototype-yellow">
+</p>
+
 ---
 
 # FemCare AI
 
-An AI-powered digital health platform designed to help women manage **PCOS and menopause** through intelligent tracking, predictive insights, and personalized recommendations.
+AI-powered digital health platform designed to support women in managing **PCOS and menopause** through intelligent tracking, predictive insights, and personalized recommendations.
 
 ---
 
-## 🌿 Overview
+## Overview
 
-FemCare AI focuses on improving women's hormonal health by combining **data tracking, pattern analysis, and AI-driven insights**.
+FemCare AI is a modern digital health platform focused on improving hormonal health through structured data collection and intelligent analysis.
 
-Unlike traditional apps, it aims to move beyond simple tracking and provide **meaningful, actionable health guidance**.
+It moves beyond traditional tracking by providing **meaningful insights and decision support**.
 
 ---
 
-## ⚠️ Problem
+## Problem
 
-Millions of women face hormonal health challenges, but current solutions:
+Hormonal health conditions affect millions of women, yet existing solutions:
 
-* Only track data without insights
+* Only record data without analysis
 * Lack personalization
-* Provide no predictive support
-* Do not offer continuous guidance
+* Do not provide predictive insights
+* Offer limited continuous support
 
-This results in **reactive healthcare instead of proactive management**.
+This leads to inefficient and reactive healthcare management.
 
 ---
 
-## 💡 Solution
+## Solution
 
-FemCare AI introduces a structured and intelligent system that:
+FemCare AI introduces a data-driven system that:
 
-* Collects user health data
+* Collects health and lifestyle data
 * Identifies patterns over time
 * Generates insights
 * Provides personalized recommendations
 
-👉 Focus: **Predict → Understand → Improve health**
-
 ---
 
-## 🚀 Features
+## Features
 
 ### Current
 
@@ -59,25 +69,25 @@ FemCare AI introduces a structured and intelligent system that:
 * Predictive health analytics
 * Hormonal trend estimation
 * Wearable integration
-* Doctor consultation support
+* Consultation support
 
 ---
 
-## ⚙️ System Design
+## System Design
 
-The platform follows a modular architecture:
+The system follows a modular architecture:
 
-* **Frontend** → User interface and interaction
-* **Backend** → Data processing and APIs
+* **Frontend** → User interaction
+* **Backend** → Data processing
 * **Database** → Health data storage
-* **AI Layer** → Pattern detection and prediction
+* **AI Layer** → Pattern analysis and prediction
 
 📁 Detailed design:
 `architecture/system-design.md`
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 User Input
 → Data Processing
@@ -86,7 +96,7 @@ User Input
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 FemCare-AI/
@@ -100,13 +110,13 @@ FemCare-AI/
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-👉 https://femcare-ai-01.lovable.app
+https://femcare-ai-01.lovable.app
 
 ---
 
-## 🖥️ Interface Preview
+## Interface Preview
 
 ### Home Page
 
@@ -118,7 +128,7 @@ FemCare-AI/
 
 ---
 
-## 🧠 Technology
+## Technology
 
 ### Current
 
@@ -132,24 +142,24 @@ FemCare-AI/
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
-* Real AI model integration
+* Implementation of real AI models
 * Improved prediction accuracy
-* Wearable device support
-* Mobile application development
+* Integration with wearable devices
+* Expansion to mobile platforms
 
 📁 Roadmap:
 `future-scope/roadmap.md`
 
 ---
 
-## 👤 Author
+## Author
 
 Susanth Mohan Kamala
 
 ---
 
-## 📌 Summary
+## Summary
 
-FemCare AI presents a modern approach to digital healthcare by combining **tracking, intelligence, and personalization** to improve hormonal health management.
+FemCare AI presents a structured and intelligent approach to digital healthcare by combining tracking, analysis, and prediction to improve hormonal health management.
