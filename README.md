@@ -19,7 +19,7 @@
 
 # FemCare AI
 
-AI-powered digital health platform designed to support women in managing **PCOS and menopause** through intelligent tracking, predictive insights, and personalized recommendations.
+AI-powered digital health platform designed to provide **proactive and personalized care** for women managing PCOS and menopause.
 
 ---
 
@@ -27,7 +27,15 @@ AI-powered digital health platform designed to support women in managing **PCOS 
 
 FemCare AI is a modern digital health platform focused on improving hormonal health through structured data collection and intelligent analysis.
 
-It moves beyond traditional tracking by providing **meaningful insights and proactive health guidance**.
+It goes beyond traditional tracking by delivering **meaningful insights and proactive healthcare guidance**.
+
+---
+
+## Why It Matters
+
+Hormonal health conditions are often underdiagnosed and poorly managed due to lack of continuous monitoring and personalized care.
+
+FemCare AI aims to bridge this gap by providing accessible, intelligent, and proactive healthcare support.
 
 ---
 
@@ -35,7 +43,7 @@ It moves beyond traditional tracking by providing **meaningful insights and proa
 
 ### PCOS (Polycystic Ovary Syndrome)
 
-PCOS is a common hormonal disorder affecting women of reproductive age. It can lead to:
+A common hormonal disorder that can lead to:
 
 * Irregular menstrual cycles
 * Hormonal imbalance
@@ -44,7 +52,7 @@ PCOS is a common hormonal disorder affecting women of reproductive age. It can l
 
 ### Menopause
 
-Menopause is a natural biological transition typically occurring between ages 45–55. It may cause:
+A natural biological transition that may cause:
 
 * Hot flashes
 * Mood changes
@@ -57,14 +65,14 @@ These conditions require **continuous monitoring and personalized care**, which 
 
 ## Problem
 
-Hormonal health conditions affect millions of women, yet existing solutions:
+Current digital health solutions:
 
 * Only record data without analysis
 * Lack personalization
 * Do not provide predictive insights
 * Offer limited continuous support
 
-This results in reactive healthcare instead of proactive management.
+This leads to reactive healthcare instead of proactive management.
 
 ---
 
@@ -186,4 +194,6 @@ Susanth Mohan Kamala
 
 ## Summary
 
-FemCare AI presents a structured and intelligent approach to digital healthcare by combining tracking, analysis, and prediction to improve hormonal health management.
+FemCare AI combines data tracking, artificial intelligence, and personalized insights to transform how women manage hormonal health.
+
+It represents a shift toward more proactive, accessible, and intelligent digital healthcare solutions.
