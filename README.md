@@ -27,7 +27,31 @@ AI-powered digital health platform designed to support women in managing **PCOS 
 
 FemCare AI is a modern digital health platform focused on improving hormonal health through structured data collection and intelligent analysis.
 
-It moves beyond traditional tracking by providing **meaningful insights and decision support**.
+It moves beyond traditional tracking by providing **meaningful insights and proactive health guidance**.
+
+---
+
+## Health Context
+
+### PCOS (Polycystic Ovary Syndrome)
+
+PCOS is a common hormonal disorder affecting women of reproductive age. It can lead to:
+
+* Irregular menstrual cycles
+* Hormonal imbalance
+* Weight gain
+* Fertility challenges
+
+### Menopause
+
+Menopause is a natural biological transition typically occurring between ages 45–55. It may cause:
+
+* Hot flashes
+* Mood changes
+* Sleep disturbances
+* Fatigue
+
+These conditions require **continuous monitoring and personalized care**, which is often missing in existing digital solutions.
 
 ---
 
@@ -40,7 +64,7 @@ Hormonal health conditions affect millions of women, yet existing solutions:
 * Do not provide predictive insights
 * Offer limited continuous support
 
-This leads to inefficient and reactive healthcare management.
+This results in reactive healthcare instead of proactive management.
 
 ---
 
